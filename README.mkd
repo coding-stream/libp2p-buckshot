@@ -1,0 +1,67 @@
+# 🌐 Coding Stream Rust libp2p project
+
+Welcome to coding stream libp2p repository! 🚀 This
+repository contains code and examples focusing on creating and implementing
+network behaviors using the Rust `libp2p` framework. Our aim is to provide a
+hands-on approach to learning and mastering peer-to-peer network programming in
+Rust. 
+
+Each commit can be viewed as an episode in this playlist, showcasing the development progress.
+
+https://www.youtube.com/playlist?list=PLtbwxVtHxPeKRoVcOaKaftd36zY3G9yC4
+
+## 🛠️ Building the Project
+
+To build the project, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/coding-stream/coding-stream/libp2p-buckshot.git
+   cd libp2p-buckshot
+   ```
+
+2. **Compile the Project:**
+   Ensure you have the latest Rust and Cargo installed, then run:
+   ```bash
+   cargo build
+   ```
+
+## 🧪 Running Tests
+
+We believe in the importance of testing. To run tests:
+
+1. **Run Tests with Cargo:**
+   ```bash
+   cargo test -- --nocapture
+   ```
+
+   The `--nocapture` flag allows you to see printed values from tests for better debugging and understanding of test executions.
+
+## 📚 Documentation
+
+For detailed documentation about `libp2p` and how to use it with Rust, visit
+the [official libp2p documentation](https://docs.libp2p.io/).
+
+## 🤝 Contributing
+
+Contributions are what make the open-source community an amazing place to
+learn, inspire, and create. Any contributions you make are **greatly
+appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📢 Feedback
+
+If you have any feedback or suggestions, feel free to open an issue in the
+repository or reach out through our community channels.
+
+## 🔗 Useful Links
+
+- [Rust Programming Language](https://www.rust-lang.org/)
+- [libp2p Official Website](https://libp2p.io/)
+
+Happy Coding! 💻🌟
